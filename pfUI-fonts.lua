@@ -9,6 +9,8 @@ for _, name in pairs(tocs) do
   end
 end
 
+table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\Archangelsk.ttf:Archangelsk")
+table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\Arial_Bold.ttf:ArialBold")
 table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\BalooBhaina.ttf:BalooBhaina")
 table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\Bungee.ttf:Bungee")
 table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\CaesarDressing.ttf:CaesarDressing")
@@ -16,6 +18,7 @@ table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\CoveredByYourGrace
 table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\JotiOne.ttf:JotiOne")
 table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\LondrinaSolid.ttf:LondrinaSolid")
 table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\NovaFlat.ttf:NovaFlat")
+table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\Prototype.ttf:Prototype")
 table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\Roboto.ttf:Roboto")
 table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\SedgwickAveDisplay.ttf:SedgwickAveDisplay")
 table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\ShareBold.ttf:ShareBold")
